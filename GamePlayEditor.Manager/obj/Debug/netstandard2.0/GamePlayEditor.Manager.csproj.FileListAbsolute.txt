@@ -1,0 +1,42 @@
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlayEditor.Manager.deps.json
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlayEditor.Manager.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlayEditor.Manager.pdb
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.csproj.CoreCompileInputs.cache
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.AssemblyInfoInputs.cache
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.AssemblyInfo.cs
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.pdb
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.csprojAssemblyReference.cache
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlay.Manager.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\ICSharpCode.SharpZipLib.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.OOXML.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.OpenXml4Net.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.OpenXmlFormats.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\UnityEditor.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\UnityEngine.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlay.Manager.pdb
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.xml
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.csproj.CopyComplete
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlayEditor.Manager\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlayEditor.Manager.deps.json
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlayEditor.Manager.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlayEditor.Manager.pdb
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlay.Manager.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\ICSharpCode.SharpZipLib.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.OOXML.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.OpenXml4Net.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.OpenXmlFormats.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\UnityEditor.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\UnityEngine.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\GamePlay.Manager.pdb
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\bin\Debug\netstandard2.0\NPOI.xml
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.csprojAssemblyReference.cache
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.AssemblyInfoInputs.cache
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.AssemblyInfo.cs
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.csproj.CoreCompileInputs.cache
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.csproj.CopyComplete
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlayEditor.Manager\obj\Debug\netstandard2.0\GamePlayEditor.Manager.pdb

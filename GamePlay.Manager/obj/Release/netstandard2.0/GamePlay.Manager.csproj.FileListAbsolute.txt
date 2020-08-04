@@ -1,0 +1,26 @@
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\bin\Release\netstandard2.0\GamePlay.Manager.deps.json
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\bin\Release\netstandard2.0\GamePlay.Manager.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\bin\Release\netstandard2.0\GamePlay.Manager.pdb
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\bin\Release\netstandard2.0\UnityEngine.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\bin\Release\netstandard2.0\UnityEngine.UI.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.csproj.CoreCompileInputs.cache
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.AssemblyInfoInputs.cache
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.AssemblyInfo.cs
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.csproj.CopyComplete
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.dll
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.pdb
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.csprojAssemblyReference.cache
+D:\DeskRoot\App Works\Frameworks\DLLS\Client\GamePlay.Manager\bin\Release\netstandard2.0\UnityEditor.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\bin\Release\netstandard2.0\GamePlay.Manager.deps.json
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\bin\Release\netstandard2.0\GamePlay.Manager.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\bin\Release\netstandard2.0\GamePlay.Manager.pdb
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\bin\Release\netstandard2.0\UnityEngine.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\bin\Release\netstandard2.0\UnityEngine.UI.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\bin\Release\netstandard2.0\UnityEditor.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.csprojAssemblyReference.cache
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.AssemblyInfoInputs.cache
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.AssemblyInfo.cs
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.csproj.CoreCompileInputs.cache
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.csproj.CopyComplete
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.dll
+D:\DeskRoot\AppWorks\Frameworks\DLLS\InGit\GamePlay\GamePlay.Manager\obj\Release\netstandard2.0\GamePlay.Manager.pdb

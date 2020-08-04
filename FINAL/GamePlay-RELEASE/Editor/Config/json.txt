@@ -1,0 +1,6 @@
+{"RelativePath":"#RelativePath","FileName":"#FileName","ModuleName":"#ModuleName","Size":#Size,"MD5":"#MD5"},
+{"RelativePath":"#RelativePath","FileName":"#FileName","ModuleName":"#ModuleName","Size":#Size,"MD5":"#MD5"}
+:::
+{"List":[
+	$Dataset
+]}
